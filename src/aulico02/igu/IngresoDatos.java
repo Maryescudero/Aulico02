@@ -107,7 +107,7 @@ public class IngresoDatos extends javax.swing.JFrame {
 
         jbCrearEmpresa.setFont(new java.awt.Font("Eras Demi ITC", 1, 12)); // NOI18N
         jbCrearEmpresa.setIcon(new javax.swing.ImageIcon(getClass().getResource("/aulico02/imagenes/nuevo-producto.png"))); // NOI18N
-        jbCrearEmpresa.setText("CREAR");
+        jbCrearEmpresa.setText("crearrr");
         jbCrearEmpresa.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 102, 102)));
         jbCrearEmpresa.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
